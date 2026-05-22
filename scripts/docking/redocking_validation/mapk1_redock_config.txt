@@ -1,0 +1,13 @@
+receptor = scripts/docking/receptors/mapk1.pdbqt
+ligand = scripts/docking/redocking_validation/mapk1_ref_ligand.pdbqt
+
+center_x = 22.535
+center_y = 71.198
+center_z = 23.695
+
+size_x = 34.622
+size_y = 40.653
+size_z = 32.936
+
+exhaustiveness = 16
+num_modes = 10

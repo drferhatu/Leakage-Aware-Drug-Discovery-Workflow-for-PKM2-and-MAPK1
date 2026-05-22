@@ -1,0 +1,3 @@
+target,n,known_actives,median_qed,median_solubility_aqsol,median_admet_support,median_toxicity_burden,compounds_with_no_structural_alerts,compounds_with_low_toxicity_flags,compounds_with_high_hia,compounds_with_high_pampa
+MAPK1,30,4,0.7075735912478746,-4.3616025,0.6555971888414752,0.47914610318000006,22,4,27,22
+PKM2,30,9,0.8089925168594119,-4.2640995,0.7217281271661784,0.40755888067,23,10,27,26

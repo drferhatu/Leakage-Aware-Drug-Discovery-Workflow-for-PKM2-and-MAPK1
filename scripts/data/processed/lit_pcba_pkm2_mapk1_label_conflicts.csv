@@ -1,0 +1,16 @@
+target,compound_id,smiles,canonical_smiles,label,valid
+MAPK1,7965897,Cc1cccc(c1)N2CCc3c(N)c4ccccc4[nH+]c23,Cc1cccc(N2CCc3c2[nH+]c2ccccc2c3N)c1,1,True
+MAPK1,11110644,CN1CC[NH+](CCCN2c3ccccc3Sc4ccc(cc24)C(F)(F)F)CC1,CN1CC[NH+](CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1,1,True
+MAPK1,11111230,COc1ccc(NC(=O)c2ccc(cc2)c3ccc(cc3C)c4noc(C)n4)cc1N5CC[NH+](C)CC5,COc1ccc(NC(=O)c2ccc(-c3ccc(-c4noc(C)n4)cc3C)cc2)cc1N1CC[NH+](C)CC1,1,True
+MAPK1,11111482,OCC[NH2+]CCNc1ccc(NCC[NH2+]CCO)c2C(=O)c3c([O-])ccc([O-])c3C(=O)c12,O=C1c2c([O-])ccc([O-])c2C(=O)c2c(NCC[NH2+]CCO)ccc(NCC[NH2+]CCO)c21,1,True
+MAPK1,11113899,COC(=O)C1=C(C)NC(=C(C1c2ccccc2[N+](=O)[O-])C(=O)OC)C,COC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1ccccc1[N+](=O)[O-],1,True
+MAPK1,17389542,Oc1c(I)cc(Cl)c2cccnc12,Oc1c(I)cc(Cl)c2cccnc12,1,True
+MAPK1,26747694,CN1CC[NH+](CCCN2c3ccccc3Sc4ccc(cc24)C(F)(F)F)CC1,CN1CC[NH+](CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1,0,True
+MAPK1,17388858,COC(=O)C1=C(C)NC(=C(C1c2ccccc2[N+](=O)[O-])C(=O)OC)C,COC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1ccccc1[N+](=O)[O-],0,True
+MAPK1,11114099,COc1ccc(NC(=O)c2ccc(cc2)c3ccc(cc3C)c4noc(C)n4)cc1N5CC[NH+](C)CC5,COc1ccc(NC(=O)c2ccc(-c3ccc(-c4noc(C)n4)cc3C)cc2)cc1N1CC[NH+](C)CC1,0,True
+MAPK1,11112285,Oc1c(I)cc(Cl)c2cccnc12,Oc1c(I)cc(Cl)c2cccnc12,0,True
+MAPK1,11111549,COC(=O)C1=C(C)NC(=C(C1c2ccccc2[N+](=O)[O-])C(=O)OC)C,COC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1ccccc1[N+](=O)[O-],0,True
+MAPK1,11111483,OCC[NH2+]CCNc1ccc(NCC[NH2+]CCO)c2C(=O)c3c([O-])ccc([O-])c3C(=O)c12,O=C1c2c([O-])ccc([O-])c2C(=O)c2c(NCC[NH2+]CCO)ccc(NCC[NH2+]CCO)c21,0,True
+MAPK1,11110645,CN1CC[NH+](CCCN2c3ccccc3Sc4ccc(cc24)C(F)(F)F)CC1,CN1CC[NH+](CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1,0,True
+MAPK1,855552,CN1CC[NH+](CCCN2c3ccccc3Sc4ccc(cc24)C(F)(F)F)CC1,CN1CC[NH+](CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1,0,True
+MAPK1,850596,Cc1cccc(c1)N2CCc3c(N)c4ccccc4[nH+]c23,Cc1cccc(N2CCc3c2[nH+]c2ccccc2c3N)c1,0,True

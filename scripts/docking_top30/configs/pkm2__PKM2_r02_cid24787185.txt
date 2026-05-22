@@ -1,0 +1,13 @@
+receptor = scripts/docking_top30/receptors/pkm2.pdbqt
+ligand = scripts/docking_top30/ligands_pdbqt/pkm2/PKM2_r02_cid24787185.pdbqt
+
+center_x = 1.558
+center_y = -12.069
+center_z = 46.389
+
+size_x = 32.641
+size_y = 40.059
+size_z = 35.962
+
+exhaustiveness = 16
+num_modes = 10

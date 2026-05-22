@@ -1,0 +1,17 @@
+target,docking_id,best_vina_score_kcal_mol,pose_path,log_path
+MAPK1,MAPK1_r02_cid4247709,-9.073,scripts/docking/results/poses/MAPK1_r02_cid4247709_vina_out.pdbqt,scripts/docking/results/logs/MAPK1_r02_cid4247709.log
+MAPK1,MAPK1_r05_cid4238114,-8.947,scripts/docking/results/poses/MAPK1_r05_cid4238114_vina_out.pdbqt,scripts/docking/results/logs/MAPK1_r05_cid4238114.log
+MAPK1,MAPK1_r01_cid861731,-8.926,scripts/docking/results/poses/MAPK1_r01_cid861731_vina_out.pdbqt,scripts/docking/results/logs/MAPK1_r01_cid861731.log
+MAPK1,MAPK1_r06_cid4239535,-8.499,scripts/docking/results/poses/MAPK1_r06_cid4239535_vina_out.pdbqt,scripts/docking/results/logs/MAPK1_r06_cid4239535.log
+MAPK1,MAPK1_r07_cid863449,-7.382,scripts/docking/results/poses/MAPK1_r07_cid863449_vina_out.pdbqt,scripts/docking/results/logs/MAPK1_r07_cid863449.log
+MAPK1,MAPK1_r08_cid849356,-7.109,scripts/docking/results/poses/MAPK1_r08_cid849356_vina_out.pdbqt,scripts/docking/results/logs/MAPK1_r08_cid849356.log
+MAPK1,MAPK1_r03_cid862804,-7.032,scripts/docking/results/poses/MAPK1_r03_cid862804_vina_out.pdbqt,scripts/docking/results/logs/MAPK1_r03_cid862804.log
+MAPK1,MAPK1_r04_cid849019,-6.833,scripts/docking/results/poses/MAPK1_r04_cid849019_vina_out.pdbqt,scripts/docking/results/logs/MAPK1_r04_cid849019.log
+PKM2,PKM2_r04_cid4245024,-10.36,scripts/docking/results/poses/PKM2_r04_cid4245024_vina_out.pdbqt,scripts/docking/results/logs/PKM2_r04_cid4245024.log
+PKM2,PKM2_r03_cid49735565,-10.29,scripts/docking/results/poses/PKM2_r03_cid49735565_vina_out.pdbqt,scripts/docking/results/logs/PKM2_r03_cid49735565.log
+PKM2,PKM2_r05_cid47200821,-9.565,scripts/docking/results/poses/PKM2_r05_cid47200821_vina_out.pdbqt,scripts/docking/results/logs/PKM2_r05_cid47200821.log
+PKM2,PKM2_r01_cid7966421,-9.529,scripts/docking/results/poses/PKM2_r01_cid7966421_vina_out.pdbqt,scripts/docking/results/logs/PKM2_r01_cid7966421.log
+PKM2,PKM2_r02_cid24787185,-9.512,scripts/docking/results/poses/PKM2_r02_cid24787185_vina_out.pdbqt,scripts/docking/results/logs/PKM2_r02_cid24787185.log
+PKM2,PKM2_r06_cid24837285,-9.217,scripts/docking/results/poses/PKM2_r06_cid24837285_vina_out.pdbqt,scripts/docking/results/logs/PKM2_r06_cid24837285.log
+PKM2,PKM2_r08_cid4258657,-8.278,scripts/docking/results/poses/PKM2_r08_cid4258657_vina_out.pdbqt,scripts/docking/results/logs/PKM2_r08_cid4258657.log
+PKM2,PKM2_r07_cid49725559,-7.967,scripts/docking/results/poses/PKM2_r07_cid49725559_vina_out.pdbqt,scripts/docking/results/logs/PKM2_r07_cid49725559.log
