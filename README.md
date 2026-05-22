@@ -12,6 +12,10 @@ The repository supports a computational drug discovery workflow for PKM2 and MAP
 
 The scripts are provided to make the analysis transparent and reproducible after publication. They are organized under `scripts/`, together with processed outputs and generated figures where applicable.
 
+Public repository: <https://github.com/drferhatu/Leakage-Aware-Drug-Discovery-Workflow-for-PKM2-and-MAPK1.git>
+
+Archived release: <https://doi.org/10.5281/zenodo.20342954>
+
 ## Data
 
 The original LIT-PCBA benchmark should be obtained from its public source. The raw compressed LIT-PCBA archive is not included in this repository.
@@ -48,4 +52,4 @@ If you use this repository, its scripts, processed outputs, or figures, please c
 
 Ucar, F.; Kati, N. **A Leakage-Aware Drug Discovery Workflow for PKM2 and MAPK1 Integrating Scaffold Validation, Molecular Docking and Structural Triage.** *International Journal of Molecular Sciences*, 2026.
 
-The final DOI, volume, issue, and article number will be added to this repository after publication.
+The final article DOI, volume, issue, and article number will be added to this repository after publication.

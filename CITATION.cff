@@ -2,12 +2,13 @@ cff-version: 1.2.0
 title: "Leakage-Aware Drug Discovery Workflow for PKM2 and MAPK1"
 message: "If you use this repository, its scripts, processed outputs or figures, please cite the associated article in International Journal of Molecular Sciences."
 type: software
+doi: "10.5281/zenodo.20342954"
 authors:
   - family-names: Ucar
     given-names: Ferhat
   - family-names: Kati
     given-names: Nida
-repository-code: "TO_BE_ADDED_AFTER_GITHUB_PUBLICATION"
+repository-code: "https://github.com/drferhatu/Leakage-Aware-Drug-Discovery-Workflow-for-PKM2-and-MAPK1.git"
 preferred-citation:
   type: article
   title: "A Leakage-Aware Drug Discovery Workflow for PKM2 and MAPK1 Integrating Scaffold Validation, Molecular Docking and Structural Triage"
